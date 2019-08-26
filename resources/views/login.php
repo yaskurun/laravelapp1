@@ -1,10 +1,8 @@
-<?php
+<html>
+    <head>
+        <title>Login</title>
+    </head>
+    <body>
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-echo "login";
-echo "ok bosque";
+    </body>
+</html>

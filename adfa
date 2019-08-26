@@ -1,0 +1,66 @@
+[33mcommit 330d30985bc6dad3830ff3aa256e226740f9df04[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a487c84 ba68f6b
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 12:00:39 2019 +0700
+
+    perbaiki konflik
+
+[33mcommit a487c84a8a78da433d1fcd25a325950f8264b585[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 11:57:24 2019 +0700
+
+    aku master
+
+[33mcommit ba68f6ba8c2941d3853721b2fb0d6f6b04901a5b[m[33m ([m[1;32mfitur_login[m[33m)[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 11:56:35 2019 +0700
+
+    add ok bosque
+
+[33mcommit b9baf193d09da8c52b5268f943f0dacea53c7afa[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 11:52:09 2019 +0700
+
+    tambah file login
+
+[33mcommit 8231842cdda508cc4a0d9c2fea246ddbf7779f27[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 10:21:04 2019 +0700
+
+    Back Ke Commit Sebelum -2
+
+[33mcommit 3d8d9264dfeee91f8b25f6e2938b4c807200deb2[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 10:11:32 2019 +0700
+
+    test 3
+
+[33mcommit 40c92bbe305f0d869d99654ea9ddc160e5923925[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 10:00:04 2019 +0700
+
+    test2
+
+[33mcommit 2a8e925de5cb2ddf34d03f6fa2404ca88f58fd51[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 09:51:32 2019 +0700
+
+    Test
+
+[33mcommit dcd873d785b30ae06fdc724b01db306fca13cd73[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 09:48:33 2019 +0700
+
+    Rubah Footer
+
+[33mcommit 6f6431ca4c4abd764149e55660d79cfbd9d28791[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 08:44:18 2019 +0700
+
+    Rubah header nama app
+
+[33mcommit fd756b37f91fb6cf713010608909a02a0a4de8a8[m
+Author: RUNWEB ID <yaskurun@gmail.com>
+Date:   Mon Aug 26 08:41:02 2019 +0700
+
+    Commit Pertama
