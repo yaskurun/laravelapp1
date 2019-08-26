@@ -2,6 +2,7 @@
 <footer class="py-5 bg-info">
     <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Belajar Koding | RUNWEB ID 2019 </p>
+        Test2
     </div>
 </footer>
 <!-- END : Footer -->
