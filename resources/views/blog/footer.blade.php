@@ -3,6 +3,7 @@
     <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Belajar Koding | RUNWEB ID 2019 </p>
         Test2
+        Test3
     </div>
 </footer>
 <!-- END : Footer -->
